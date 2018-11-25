@@ -1,0 +1,4 @@
+## Title: HeroAchievements
+## Interface: 80000
+## Notes: Adds wowhead links to achievements
+HeroAchievements.lua
