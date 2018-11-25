@@ -1,4 +1,6 @@
 ## Title: HeroAchievements
 ## Interface: 80000
 ## Notes: Adds wowhead links to achievements
+## LoadOnDemand: 1
+## LoadWith: Blizzard_AchievementUI
 HeroAchievements.lua
