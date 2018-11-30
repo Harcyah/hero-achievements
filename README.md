@@ -1,3 +1,7 @@
 # wow-hero-achievements
 
-With this addon, control-click on an Achievements: it will fill the chat text input with the corresponding wowhead link.
+Tired of searching google for a given achievement ?
+
+With this addon, a ctrl-left-click on an achievement in achievement frame will fill chat input area with the wowhead link.
+
+Copy, paste, enjoy.
