@@ -1,5 +1,5 @@
 ## Title: HeroAchievements
-## Interface: 80000
+## Interface: 80100
 ## Notes: Adds wowhead links to achievements
 ## LoadOnDemand: 1
 ## LoadWith: Blizzard_AchievementUI
