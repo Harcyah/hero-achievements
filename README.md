@@ -1,4 +1,4 @@
-# wow-hero-achievements
+# hero-achievements
 
 Tired of searching google for a given achievement ?
 
