@@ -8,3 +8,6 @@ hooksecurefunc("AchievementButton_OnClick", function(self, button, down)
 		edit_box:HighlightText();
 	end
 end)
+
+-- Default to filter incomplete achievements
+AchievementFrame_SetFilter(ACHIEVEMENT_FILTER_INCOMPLETE)
