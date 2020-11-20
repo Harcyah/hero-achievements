@@ -1,4 +1,4 @@
-hooksecurefunc("AchievementButton_OnClick", function(self, button, down) 
+hooksecurefunc('AchievementButton_OnClick', function(self, button, down)
 	if (IsControlKeyDown()) then
 		local id = self.id
 		local link = 'https://fr.wowhead.com/achievement=' .. id
