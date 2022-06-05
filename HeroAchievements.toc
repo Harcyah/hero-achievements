@@ -1,5 +1,5 @@
 ## Title: HeroAchievements
-## Interface: 90200
+## Interface: 90205
 ## Author: harcyah@gmail.com
 ## Notes: Adds wowhead links to achievements
 ## LoadOnDemand: 1
